@@ -1,0 +1,6 @@
+parent: ap_trump
+name: child_ap_trump
+display_name: Child theme of ap_trump's theme
+version: 1.0.0
+assets:
+  use_parent_assets: false
